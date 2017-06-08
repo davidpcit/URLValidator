@@ -1,0 +1,9 @@
+Balanceadora_GOT_AB_PRO_MANAGER;https://gotab.agbar.net
+Nodo 1;https://10.200.14.109
+Nodo 2;https://10.200.14.113
+Balanceadora_GOT_AB_PRO_MOBILITY;https://gotab.agbar.net:444
+Nodo 1;https://10.200.14.109:444
+Nodo 2;https://10.200.14.113:444
+Balanceadora_GOT_AB_PRO_MASTER;https://gotab.agbar.net:446
+Nodo 1;https://10.200.14.109:446
+Nodo 2;https://10.200.14.113:446

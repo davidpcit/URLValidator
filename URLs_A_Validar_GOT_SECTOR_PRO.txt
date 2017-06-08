@@ -1,0 +1,32 @@
+Balanceadora_GOT_SECTOR_PRO_MANAGER;https://got.agbar.net
+Nodo 1;https://10.200.14.106
+Nodo 2;https://10.200.14.110
+Nodo 3;https://10.200.14.124
+Balanceadora_GOT_SECTOR_PRO_MOBILITY;https://got.agbar.net:444
+Nodo 1;https://10.200.14.106:444
+Nodo 2;https://10.200.14.110:444
+Nodo 3;https://10.200.14.124:444
+Balanceadora_GOT_SECTOR_PRO_MASTER;https://got.agbar.net:446
+Nodo 1;https://10.200.14.106:446
+Nodo 2;https://10.200.14.110:446
+Nodo 3;https://10.200.14.124:446
+Balanceadora_GOT_SECTOR_PRO_CATAV;http://got.agbar.net:8085/WSCatav.asmx
+Nodo 1;http://10.200.14.106:8085/WSCatav.asmx
+Nodo 2;http://10.200.14.110:8085/WSCatav.asmx
+Nodo 3;http://10.200.14.124:8085/WSCatav.asmx
+Balanceadora_GOT_SECTOR_PRO_WS_CONTEC;http://got.agbar.net:8084/LinkContec.asmx
+Nodo 1;http://10.200.14.106:8084/LinkContec.asmx
+Nodo 2;http://10.200.14.110:8084/LinkContec.asmx
+Nodo 3;http://10.200.14.124:8084/LinkContec.asmx
+Balanceadora_GOT_SECTOR_PRO_WS_GA;http://got.agbar.net:8091/WSGA.asmx
+Nodo 1;http://10.200.14.106:8091/WSGA.asmx
+Nodo 2;http://10.200.14.110:8091/WSGA.asmx
+Nodo 3;http://10.200.14.124:8091/WSGA.asmx
+Balanceadora_GOT_SECTOR_PRO_WS_CF;http://got.agbar.net:9503/WsAquacisCF.asmx
+Nodo 1;http://10.200.14.106:9503/WsAquacisCF.asmx
+Nodo 2;http://10.200.14.110:9503/WsAquacisCF.asmx
+Nodo 3;http://10.200.14.124:9503/WsAquacisCF.asmx
+Balanceadora_GOT_SECTOR_PRO_WS_CFInterface;http://got.agbar.net:8083/GOTWSInterfaceWCF.asmx
+Nodo 1;http://10.200.14.106:8083/GOTWSInterfaceWCF.asmx
+Nodo 2;http://10.200.14.110:8083/GOTWSInterfaceWCF.asmx
+Nodo 3;http://10.200.14.124:8083/GOTWSInterfaceWCF.asmx
